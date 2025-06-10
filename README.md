@@ -1,4 +1,4 @@
-# TFLEO - DevOps Project
+# DevOps Project
 
 **Proyecto completo de DevOps que integra Terraform, Ansible y SpringBoot para automatización de infraestructura y despliegue de aplicaciones.**
 
@@ -185,13 +185,7 @@ Si tienes preguntas o problemas:
 1. Revisa la documentación de cada tecnología
 2. Consulta los logs de error
 3. Abre un issue en este repositorio
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
+   
 **Desarrollado con ❤️ para aprender DevOps**
 
 ### 🔗 Enlaces Útiles
